@@ -25,4 +25,4 @@ Create a simple KBC quiz game
 9. Lets see if you have what it takes to be a crorepati !.
 
 # Visit:
-QuizApp
+https://bomberabhi17.github.io/Assignment-1-KBC-Quiz-Game/
